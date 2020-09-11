@@ -45935,7 +45935,7 @@ V.jP.prototype={
 v:function(a,b){var s=null
 return new T.bs(C.vK,T.bG(H.b([L.hv(this.d,C.j,s),new T.Z(30,s,s,s),new D.yQ(this.c,this.e,s)],t.t),C.p,s,C.l,C.k),s)}}
 Z.wW.prototype={
-v:function(a,b){return new T.Z(null,75,U.a2h("assets/logoM.png"),null)}}
+v:function(a,b){return new T.Z(null,75,U.a2h("assets/logo.png"),null)}}
 D.yQ.prototype={
 v:function(a,b){var s=null
 return D.jZ(s,L.aw(this.c,s,s,s,s,s,s,s,A.af(s,s,P.Y(C.J.as(229.5),204,214,246),s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s),s,s,s),C.aa,!1,s,s,s,s,s,s,s,s,s,s,new D.NF(this,b),s,s,s,s,s)}}
