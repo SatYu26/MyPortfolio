@@ -45670,7 +45670,7 @@ p.z=1.3
 p.f=new V.d2(F.W(b,!1)).gde()===C.ad?15:20
 p.c=C.v
 s=T.fS(p.bt(),C.a4)
-return T.e0(K.cd(20),M.am(r,B.eK(!0,H.b([new T.bs(C.iO,new T.bS(C.bZ,r,r,s,r),r),new V.zX(new D.yz(),r)],t.t),new L.hL(r)),new P.m(4278851887),r,r,r,4250,r,r,r,r,600))}}
+return T.e0(K.cd(20),M.am(r,B.eK(!0,H.b([new T.bs(C.iO,new T.bS(C.bZ,r,r,s,r),r),new V.zX(new D.yz(),r)],t.t),new L.hL(r)),new P.m(4278851887),r,r,r,4450,r,r,r,r,600))}}
 V.zX.prototype={
 v:function(a,b){var s=this,r=null,q=F.W(b,!1).a.b*0.07
 return T.bv(H.b([new T.Z(r,q,r,r),new G.cT(new V.OI(s),"assets/git.png","GitHub Contribution Hack",r),new T.Z(r,q,r,r),new G.cT(new V.OJ(s),"assets/tfjs.png","Hand Gesture Classifier",r),new T.Z(r,q,r,r),new G.cT(new V.OK(s),"assets/wolverine.png","Wolverine",r),new T.Z(r,q,r,r),new G.cT(new V.OV(s),"assets/fashion.jpg","Fashion Classifier",r),new T.Z(r,q,r,r),new G.cT(new V.P0(s),"assets/url.jpg","URL Shortener",r),new T.Z(r,q,r,r),new G.cT(new V.P1(s),"assets/wifi.jpg","SRM WiFi Auto Login",r),new T.Z(r,q,r,r),new G.cT(new V.P2(s),"assets/expressions.png","Expression Tracker",r),new T.Z(r,q,r,r),new G.cT(new V.P3(s),"assets/hw.png","Handwriting Classifier",r),new T.Z(r,q,r,r),new G.cT(new V.P4(s),"assets/motion.png","Motion Detector",r),new T.Z(r,q,r,r),new G.cT(new V.P5(s),"assets/Friday.png","Friday",r),new T.Z(r,q,r,r),new G.cT(new V.P6(s),"assets/face-track.jpg","Face Track",r),new T.Z(r,q,r,r),new G.cT(new V.OL(s),"assets/faceRecog.jpg","Face Recognition Model",r),new T.Z(r,q,r,r),new G.cT(new V.OM(s),"assets/InvisibilityCloak.jpg","Invisibility Cloak",r)],t.t),C.p,C.l,C.k)}}
