@@ -45517,7 +45517,7 @@ o.c=C.v
 s=T.fS(o.bt(),C.a4)
 r=F.W(b,!1).a
 p=t.t
-return T.e0(K.cd(20),M.am(q,T.f2(C.b0,H.b([new X.xe(q),B.eK(!0,H.b([T.bv(H.b([new T.bs(C.iO,new T.bS(C.bZ,q,q,s,q),q),new T.Z(q,r.b*0.07,q,q)],p),C.p,C.l,C.k),new T.bs(C.vE,new G.xi(q),q)],p),q)],p),C.kQ),new P.m(4278851887),q,q,q,635,q,q,q,q,600))}}
+return T.e0(K.cd(20),M.am(q,T.f2(C.b0,H.b([new X.xe(q),B.eK(!0,H.b([T.bv(H.b([new T.bs(C.iO,new T.bS(C.bZ,q,q,s,q),q),new T.Z(q,r.b*0.07,q,q)],p),C.p,C.l,C.k),new T.bs(C.vE,new G.xi(q),q)],p),q)],p),C.kQ),new P.m(4278851887),q,q,q,600,q,q,q,q,600))}}
 X.xe.prototype={
 v:function(a,b){var s=null,r=F.W(b,!1).a,q=F.W(b,!1).a
 return new T.bS(C.iy,s,s,new T.bs(C.vG,M.am(s,U.iQ(s,s,s,s,new L.db("assets/Programmer.png",s,s),s),s,s,s,s,r.b*0.7,s,s,s,s,q.a*0.3),s),s)}}
@@ -45593,7 +45593,7 @@ p.z=1.3
 p.f=new V.d2(F.W(b,!1)).gde()===C.ad?15:20
 p.c=C.v
 s=T.fS(p.bt(),C.a4)
-return T.e0(K.cd(20),M.am(r,B.eK(!0,H.b([new T.bs(C.oO,new T.bS(C.P,r,r,s,r),r),new K.zY(new D.yz(),r)],t.t),r),new P.m(4278851887),r,r,r,635,r,r,r,r,600))}}
+return T.e0(K.cd(20),M.am(r,B.eK(!0,H.b([new T.bs(C.oO,new T.bS(C.P,r,r,s,r),r),new K.zY(new D.yz(),r)],t.t),r),new P.m(4278851887),r,r,r,600,r,r,r,r,600))}}
 K.zY.prototype={
 v:function(a,b){var s=this,r="JavaScript",q="Tensorflow",p="Web",o="Python",n="Open CV",m="ML"
 return T.bv(H.b([new T.Z(null,F.W(b,!1).a.b*0.04,null,null),Z.lP("assets/tfjs.png",new K.ON(s),"It is a browser based Rock, Paper and Scissor(Hand Gestures) classifier Created Using Tensorflow.js.","Hand Gesture Classifier",r,q,p),N.pk("assets/git.png",new K.OO(s),"A Program created to Hack of GitHub's Contribution Graph.","GitHub Contribution Hack",r,"Git","GitHub"),Z.lP("assets/wolverine.png",new K.OP(s),"This is a Dark theme type extension for VS Code with some tweaks which will remind you of the night Sky (Wolverine).","Wolverine","VS Code","Colour Theme","CSS"),N.pk("assets/fashion.jpg",new K.OQ(s),"It is a browser based Fashion classifier Created Using Tensorflow.js.","Fashion Classifier",r,q,p),Z.lP("assets/url.jpg",new K.OR(s),"This Is an Online URL SHORETNER webite created entirely on FLASK Framework.","URL Shortener","Flask",o,p),N.pk("assets/wifi.jpg",new K.OS(s),"This is a Auto login for SRM wifi connection made Using Selenium driver.","SRM WiFi Auto Login","Web Drivers",o,"Automation"),Z.lP("assets/expressions.png",new K.OT(s),"Checking facial expressions using Open CV.","Expression Tracker",n,o,m),N.pk("assets/hw.png",new K.OU(s),"It is a browser based Handwriting classifier Created Using Tensorflow.js.","Handwriting Classifier",r,q,p),Z.lP("assets/motion.png",new K.OW(s),"Python/OpenCV script that detect motion on webcam and allow record it to a file and plot a graph for proper Visualization.","Motion Detector",n,o,m),N.pk("assets/Friday.png",new K.OX(s),"An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user.","Friday",o,n,"Voice Assistant"),Z.lP("assets/face-track.jpg",new K.OY(s),"Controlling Keyboard using facial expressions.","Face Track",n,o,m),N.pk("assets/faceRecog.jpg",new K.OZ(s),"It is a Face Recognition Model which can Recognize the User.","Face Recognition Model",n,o,m),Z.lP("assets/InvisibilityCloak.jpg",new K.P_(s),"The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! This [code] turns a red colour cloth into an invisibility cloak.","Invisibility Cloak",n,o,"Image Processing")],t.t),C.p,C.l,C.k)}}
@@ -45738,7 +45738,7 @@ p.f=new V.d2(F.W(b,!1)).gde()===C.ad?15:20
 p.c=C.v
 s=T.fS(p.bt(),C.a4)
 q=t.t
-return T.e0(K.cd(20),M.am(r,T.f2(C.b0,H.b([new T.bS(C.iy,r,r,new S.yI(r),r),B.eK(!0,H.b([new T.bs(C.oO,new T.bS(C.P,r,r,s,r),r),T.bG(H.b([new D.y4(r)],q),C.lr,r,C.k2,C.k)],q),r)],q),C.kQ),new P.m(4278851887),r,r,r,635,r,r,r,r,600))}}
+return T.e0(K.cd(20),M.am(r,T.f2(C.b0,H.b([new T.bS(C.iy,r,r,new S.yI(r),r),B.eK(!0,H.b([new T.bs(C.oO,new T.bS(C.P,r,r,s,r),r),T.bG(H.b([new D.y4(r)],q),C.lr,r,C.k2,C.k)],q),r)],q),C.kQ),new P.m(4278851887),r,r,r,600,r,r,r,r,600))}}
 D.y4.prototype={
 v:function(a,b){var s=null,r=F.W(b,!1).a,q=F.W(b,!1).a
 return M.am(s,T.bG(H.b([new T.iK(1,C.h8,new D.y1(s),s)],t.t),C.p,s,C.hH,C.k),s,s,s,s,q.b*0.7,s,s,C.oP,s,r.a*0.6)}}
