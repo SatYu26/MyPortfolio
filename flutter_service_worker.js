@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3f2023aecdcc37084e4e9d5dbdd93b11",
+  "assets/AssetManifest.json": "a2bc4c0bc6698336f92f80b8d8f55661",
 "assets/assets/BG.jpeg": "165f7b802d0457ecb7bc05b38d11face",
 "assets/assets/BGM.jpeg": "91704fec61b3867a9a1ee2f105a634cf",
 "assets/assets/expressions.png": "92cb6293d0de5fc6028b71e2898c1c99",
@@ -22,7 +22,7 @@ const RESOURCES = {
 "assets/assets/MyPic.jpeg": "d98922525957e635e379afa60e263403",
 "assets/assets/Programmer.png": "859afb7ab5d270cf40f1fe19115a945f",
 "assets/assets/tfjs.png": "5d08d59d98432fe86f3687bce1bcb28b",
-"assets/assets/url.png": "d80ec3719cefa9c17acde740ebf323a9",
+"assets/assets/url.jpg": "5c0488ecfe387791a2c7473527055982",
 "assets/assets/wifi.jpg": "a3196736f30f6999c5bb75908e775a88",
 "assets/assets/wolverine.png": "674fb05db6da915e28a53c0af73f1916",
 "assets/FontManifest.json": "cd60659878a00edd01e9c4db747bf319",
@@ -78,7 +78,7 @@ const RESOURCES = {
 "icons/ms-icon-70x70.png": "259267f3949d2b79ea805ce96c889026",
 "index.html": "77b04fc0dee0fe71991a25090ab7e7ef",
 "/": "77b04fc0dee0fe71991a25090ab7e7ef",
-"main.dart.js": "88fcfb7d03bbc90244f547ea67dd2c78",
+"main.dart.js": "539f83067be26f01f0a087610fbb7c2a",
 "manifest.json": "da934d14c06e103553f31df4bfb043f0"
 };
 
