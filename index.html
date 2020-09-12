@@ -32,6 +32,18 @@
 
   <title>Satyam Goyal</title>
   <link rel="manifest" href="manifest.json">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177827766-1"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177827766-1');
+</script>
+
 </head>
 <body id="app-container">
   <!-- This script installs service_worker.js to provide PWA functionality to
@@ -40,10 +52,10 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=1223970586');
       });
     }
   </script>
-  <script src="main.dart.js" type="application/javascript"></script>
+  <script src="main.dart.js?v=1223970586" type="application/javascript"></script>
 </body>
 </html>
