@@ -46200,24 +46200,24 @@ return M.ao(C.c_,new M.rt(C.m,[P.av(["color",new P.n(j),"background",C.ag,"label
 N.xf.prototype={
 A:function(a,b){var s,r,q,p,o,n=this,m=null,l=F.X(b,!1).a,k=l.b,j=l.a,i=j*0.5,h=T.dp(m,T.e4(K.cg(20),M.ao(m,U.iR(m,m,C.iF,m,new L.de(n.c,m,m),m),m,m,m,m,k*0.5,m,m,m,m,i)),m,m,m,100,k*0.02,m),g=t.t
 i=T.dp(m,T.e4(K.cg(20),M.ao(C.Q,T.TP(C.l2,H.b([new T.bu(C.iS,new X.cB(n.e,16,P.Y(102,255,255,255),0.75,m,m),m)],g)),new P.n(4279708229),m,m,m,k*0.18,m,m,m,m,i)),m,m,100,m,k/6,m)
-s=j*0.25
-r=T.dp(m,M.ao(m,T.TP(C.it,H.b([new X.cB(n.d,27,C.a6,1.75,C.v,m)],g)),m,m,m,m,k*0.1,m,m,m,m,s),m,m,100,m,16,m)
-q=k*0.08
-p=T.dp(m,M.ao(m,T.bI(H.b([new X.cB(n.f,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.r,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.x,14,C.a6,1.75,m,m)],g),C.p,m,C.n,C.k),m,m,m,m,q,m,m,m,m,s),m,m,100,m,k*0.36,m)
+s=T.dp(m,M.ao(m,T.TP(C.it,H.b([new X.cB(n.d,27,C.a6,1.75,C.v,m)],g)),m,m,m,m,k*0.1,m,m,m,m,j*0.24),m,m,100,m,16,m)
+r=k*0.08
+q=j*0.25
+p=T.dp(m,M.ao(m,T.bI(H.b([new X.cB(n.f,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.r,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.x,14,C.a6,1.75,m,m)],g),C.p,m,C.n,C.k),m,m,m,m,r,m,m,m,m,q),m,m,100,m,k*0.36,m)
 o=Z.a2c(C.p6)
-return M.ao(m,T.by(H.b([M.ao(m,T.f6(C.aZ,H.b([h,i,r,p,T.dp(m,M.ao(m,T.bI(H.b([new M.cS(N.e7(B.a_7(P.Y(C.I.ar(76.5),255,255,255),m,o,24,n.y)),m)],g),C.p,m,C.n,C.k),m,m,m,m,q,m,m,m,m,s),m,m,100,m,k*0.42,m)],g),C.bB),m,m,m,m,k-300,m,m,m,m,j-84)],g),C.p,C.n,C.k),m,m,m,m,k/1.65,m,m,m,m,j-100)}}
+return M.ao(m,T.by(H.b([M.ao(m,T.f6(C.aZ,H.b([h,i,s,p,T.dp(m,M.ao(m,T.bI(H.b([new M.cS(N.e7(B.a_7(P.Y(C.I.ar(76.5),255,255,255),m,o,24,n.y)),m)],g),C.p,m,C.n,C.k),m,m,m,m,r,m,m,m,m,q),m,m,100,m,k*0.42,m)],g),C.bB),m,m,m,m,k-300,m,m,m,m,j-84)],g),C.p,C.n,C.k),m,m,m,m,k/1.65,m,m,m,m,j-100)}}
 G.cW.prototype={
 A:function(a,b){var s=null,r=K.cg(20),q=F.X(b,!1).a,p=F.X(b,!1).a
 return T.Iu(D.jX(s,T.by(H.b([T.e4(r,M.ao(s,U.iR(s,s,C.iF,s,new L.de(this.d,s,s),s),s,s,s,s,q.b*0.36,s,s,s,s,p.a*0.8)),new T.bu(C.vK,new X.cB(this.e,16,P.Y(102,255,255,255),0.75,s,s),s)],t.t),C.p,C.n,C.k),C.ae,!1,s,s,s,s,s,s,s,s,s,s,this.c,s,s,s,s,s),s,s)}}
 Z.xe.prototype={
 A:function(a,b){var s,r,q,p,o,n=this,m=null,l=F.X(b,!1).a,k=l.b,j=l.a,i=j*0.5,h=T.dp(m,T.e4(K.cg(20),M.ao(m,U.iR(m,m,C.iF,m,new L.de(n.c,m,m),m),m,m,m,m,k*0.5,m,m,m,m,i)),m,m,100,m,k*0.02,m),g=t.t
 i=T.dp(m,T.e4(K.cg(20),M.ao(C.Q,T.TP(C.l2,H.b([new T.bu(C.iS,new X.cB(n.e,16,P.Y(102,255,255,255),0.75,m,m),m)],g)),new P.n(4279708229),m,m,m,k*0.18,m,m,m,m,i)),m,m,m,150,k/6,m)
-s=j*0.25
-r=T.dp(m,M.ao(m,T.TP(C.nL,H.b([new X.cB(n.d,27,C.a6,1.75,C.v,m)],g)),m,m,m,m,k*0.1,m,m,m,m,s),m,m,m,150,16,m)
-q=k*0.08
-p=T.dp(m,M.ao(m,T.bI(H.b([new X.cB(n.f,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.r,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.x,14,C.a6,1.75,m,m)],g),C.p,m,C.k5,C.k),m,m,m,m,q,m,m,m,m,s),m,m,m,150,k*0.36,m)
+s=T.dp(m,M.ao(m,T.TP(C.nL,H.b([new X.cB(n.d,27,C.a6,1.75,C.v,m)],g)),m,m,m,m,k*0.1,m,m,m,m,j*0.24),m,m,m,150,16,m)
+r=k*0.08
+q=j*0.25
+p=T.dp(m,M.ao(m,T.bI(H.b([new X.cB(n.f,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.r,14,C.a6,1.75,m,m),new T.Z(16,m,m,m),new X.cB(n.x,14,C.a6,1.75,m,m)],g),C.p,m,C.k5,C.k),m,m,m,m,r,m,m,m,m,q),m,m,m,150,k*0.36,m)
 o=Z.a2c(C.p6)
-return M.ao(m,T.by(H.b([M.ao(m,T.f6(C.aZ,H.b([h,i,r,p,T.dp(m,M.ao(m,T.bI(H.b([new M.cS(N.e7(B.a_7(P.Y(C.I.ar(76.5),255,255,255),m,o,24,n.y)),m)],g),C.p,m,C.k5,C.k),m,m,m,m,q,m,m,m,m,s),m,m,m,150,k*0.42,m)],g),C.bB),m,m,m,m,k-300,m,m,m,m,j-84)],g),C.p,C.n,C.k),m,m,m,m,k/1.65,m,m,m,m,j-100)}}
+return M.ao(m,T.by(H.b([M.ao(m,T.f6(C.aZ,H.b([h,i,s,p,T.dp(m,M.ao(m,T.bI(H.b([new M.cS(N.e7(B.a_7(P.Y(C.I.ar(76.5),255,255,255),m,o,24,n.y)),m)],g),C.p,m,C.k5,C.k),m,m,m,m,r,m,m,m,m,q),m,m,m,150,k*0.42,m)],g),C.bB),m,m,m,m,k-300,m,m,m,m,j-84)],g),C.p,C.n,C.k),m,m,m,m,k/1.65,m,m,m,m,j-100)}}
 M.zH.prototype={
 A:function(a,b){return E.a_J(K.ky(new K.zI(null),new V.zJ(null),null))}}
 K.zI.prototype={
@@ -46231,7 +46231,7 @@ s=T.fT(p.br(),C.a6)
 return T.e4(K.cg(20),M.ao(r,B.eN(!0,H.b([new T.bu(C.oZ,new T.bV(C.Q,r,r,s,r),r),new K.zL(new D.yp(),r)],t.t),r),new P.n(4278851887),r,r,r,600,r,r,r,r,600))}}
 K.zL.prototype={
 A:function(a,b){var s=this,r="JavaScript",q="Tensorflow",p="Web",o="Python",n="Open CV",m="ML"
-return T.by(H.b([new T.Z(null,F.X(b,!1).a.b*0.04,null,null),Z.lH("assets/tfjs.png",new K.Op(s),"It is a browser based Rock, Paper and Scissor(Hand Gestures) classifier Created Using Tensorflow.js.","Hand Gesture Classifier",r,q,p),N.ph("assets/git.png",new K.Oq(s),"A Program created to Hack of GitHub's Contribution Graph.","GitHub Contribution Hack",r,"Git","GitHub"),Z.lH("assets/wolverine.png",new K.Or(s),"This is a Dark theme type extension for VS Code with some tweaks which will remind you of the night Sky (Wolverine).","Wolverine","VS Code","Colour Theme","CSS"),N.ph("assets/fashion.jpg",new K.Os(s),"It is a browser based Fashion classifier Created Using Tensorflow.js.","Fashion Classifier",r,q,p),Z.lH("assets/url.jpg",new K.Ot(s),"This Is an Online URL SHORETNER webite created entirely on FLASK Framework.","URL Shortener","Flask",o,p),N.ph("assets/wifi.jpg",new K.Ou(s),"This is a Auto login for SRM wifi connection made Using Selenium driver.","SRM WiFi Auto Login","Web Drivers",o,"Automation"),Z.lH("assets/expressions.png",new K.Ov(s),"Checking facial expressions using Open CV.","Expression Tracker",n,o,m),N.ph("assets/hw.png",new K.Ow(s),"It is a browser based Handwriting classifier Created Using Tensorflow.js.","Handwriting Classifier",r,q,p),Z.lH("assets/motion.png",new K.Oy(s),"Python/OpenCV script that detect motion on webcam and allow record it to a file and plot a graph for proper Visualization.","Motion Detector",n,o,m),N.ph("assets/Friday.png",new K.Oz(s),"An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user.","Friday",o,n,"Voice Assistant"),Z.lH("assets/face-track.jpg",new K.OA(s),"Controlling Keyboard using facial expressions.","Face Track",n,o,m),N.ph("assets/faceRecog.jpg",new K.OB(s),"It is a Face Recognition Model which can Recognize the User.","Face Recognition Model",n,o,m),Z.lH("assets/InvisibilityCloak.jpg",new K.OC(s),"The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! This [code] turns a red colour cloth into an invisibility cloak.","Invisibility Cloak",n,o,"Image Processing")],t.t),C.p,C.n,C.k)}}
+return T.by(H.b([new T.Z(null,F.X(b,!1).a.b*0.04,null,null),Z.lH("assets/tfjs.png",new K.Op(s),"It is a browser based Rock, Paper and Scissor(Hand Gestures) classifier Created Using Tensorflow.js.","Hand Gesture Classifier",r,q,p),N.ph("assets/git.png",new K.Oq(s),"A Program created to Hack of GitHub's Contribution Graph.","GitHub Contribution Hack",r,"Git","GitHub"),Z.lH("assets/wolverine.png",new K.Or(s),"This is a Dark theme type extension for VS Code with some tweaks which will remind you of the night Sky (Wolverine).","Wolverine","VS Code","Colour Theme","CSS"),N.ph("assets/fashion.jpg",new K.Os(s),"It is a browser based Fashion classifier Created Using Tensorflow.js.","Fashion Classifier",r,q,p),Z.lH("assets/url.jpg",new K.Ot(s),"This Is an Online URL SHORTENER webite created entirely on FLASK Framework.","URL Shortener","Flask",o,p),N.ph("assets/wifi.jpg",new K.Ou(s),"This is a Auto login for SRM wifi connection made Using Selenium driver.","SRM WiFi Auto Login","Web Drivers",o,"Automation"),Z.lH("assets/expressions.png",new K.Ov(s),"Checking facial expressions using Open CV.","Expression Tracker",n,o,m),N.ph("assets/hw.png",new K.Ow(s),"It is a browser based Handwriting classifier Created Using Tensorflow.js.","Handwriting Classifier",r,q,p),Z.lH("assets/motion.png",new K.Oy(s),"Python/OpenCV script that detect motion on webcam and allow record it to a file and plot a graph for proper Visualization.","Motion Detector",n,o,m),N.ph("assets/Friday.png",new K.Oz(s),"An AI personal assistant is a piece of software that understands verbal or written commands and completes task assigned by the client. It is an example of weak AI that is it can only execute and perform quest designed by the user.","Friday",o,n,"Voice Assistant"),Z.lH("assets/face-track.jpg",new K.OA(s),"Controlling Keyboard using facial expressions.","Face Track",n,o,m),N.ph("assets/faceRecog.jpg",new K.OB(s),"It is a Face Recognition Model which can Recognize the User.","Face Recognition Model",n,o,m),Z.lH("assets/InvisibilityCloak.jpg",new K.OC(s),"The algorithm is very similar in principle to green screening. But unlike green screening where we remove the background, in this application, we remove the foreground! This [code] turns a red colour cloth into an invisibility cloak.","Invisibility Cloak",n,o,"Image Processing")],t.t),C.p,C.n,C.k)}}
 K.Op.prototype={
 $0:function(){this.a.c.b3(u.f)},
 $C:"$0",
@@ -46305,7 +46305,7 @@ p.z=1.3
 p.f=new V.d5(F.X(b,!1)).gdk()===C.ah?15:20
 p.c=C.v
 s=T.fT(p.br(),C.a6)
-return T.e4(K.cg(20),M.ao(r,B.eN(!0,H.b([new T.bu(C.iR,new T.bV(C.c_,r,r,s,r),r),new V.zK(new D.yp(),r)],t.t),new L.hK(r)),new P.n(4278851887),r,r,r,4450,r,r,r,r,600))}}
+return T.e4(K.cg(20),M.ao(r,B.eN(!0,H.b([new T.bu(C.iR,new T.bV(C.c_,r,r,s,r),r),new V.zK(new D.yp(),r)],t.t),new L.hK(r)),new P.n(4278851887),r,r,r,4850,r,r,r,r,600))}}
 V.zK.prototype={
 A:function(a,b){var s=this,r=null,q=F.X(b,!1).a.b*0.07
 return T.by(H.b([new T.Z(r,q,r,r),new G.cW(new V.Ok(s),"assets/git.png","GitHub Contribution Hack",r),new T.Z(r,q,r,r),new G.cW(new V.Ol(s),"assets/tfjs.png","Hand Gesture Classifier",r),new T.Z(r,q,r,r),new G.cW(new V.Om(s),"assets/wolverine.png","Wolverine",r),new T.Z(r,q,r,r),new G.cW(new V.Ox(s),"assets/fashion.jpg","Fashion Classifier",r),new T.Z(r,q,r,r),new G.cW(new V.OD(s),"assets/url.jpg","URL Shortener",r),new T.Z(r,q,r,r),new G.cW(new V.OE(s),"assets/wifi.jpg","SRM WiFi Auto Login",r),new T.Z(r,q,r,r),new G.cW(new V.OF(s),"assets/expressions.png","Expression Tracker",r),new T.Z(r,q,r,r),new G.cW(new V.OG(s),"assets/hw.png","Handwriting Classifier",r),new T.Z(r,q,r,r),new G.cW(new V.OH(s),"assets/motion.png","Motion Detector",r),new T.Z(r,q,r,r),new G.cW(new V.OI(s),"assets/Friday.png","Friday",r),new T.Z(r,q,r,r),new G.cW(new V.OJ(s),"assets/face-track.jpg","Face Track",r),new T.Z(r,q,r,r),new G.cW(new V.On(s),"assets/faceRecog.jpg","Face Recognition Model",r),new T.Z(r,q,r,r),new G.cW(new V.Oo(s),"assets/InvisibilityCloak.jpg","Invisibility Cloak",r)],t.t),C.p,C.n,C.k)}}
@@ -46410,7 +46410,7 @@ p.z=1
 p.f=new V.d5(F.X(b,!1)).gdk()===C.ah?15:20
 p.c=C.v
 s=T.fT(p.br(),C.a6)
-return T.e4(K.cg(20),M.ao(r,B.eN(!0,H.b([new T.bu(C.iR,new T.bV(C.c_,r,r,s,r),r),new T.bV(C.Q,r,r,new G.yA(r),r),new T.Z(r,20,r,r),new T.bu(C.vL,new E.xW(r),r)],t.t),new L.hK(r)),new P.n(4278851887),r,r,r,1600,r,r,r,r,600))}}
+return T.e4(K.cg(20),M.ao(r,B.eN(!0,H.b([new T.bu(C.iR,new T.bV(C.c_,r,r,s,r),r),new T.bV(C.Q,r,r,new G.yA(r),r),new T.Z(r,20,r,r),new T.bu(C.vL,new E.xW(r),r)],t.t),new L.hK(r)),new P.n(4278851887),r,r,r,1700,r,r,r,r,600))}}
 E.pE.prototype={
 A:function(a,b){return K.ky(null,new U.xX(null),new M.xY(null))}}
 U.xX.prototype={
@@ -46570,7 +46570,7 @@ V.jO.prototype={
 A:function(a,b){var s=null
 return new T.bu(C.vM,T.bI(H.b([L.hw(this.d,C.j,s),new T.Z(30,s,s,s),new D.yH(this.c,this.e,s)],t.t),C.p,s,C.n,C.k),s)}}
 Z.wO.prototype={
-A:function(a,b){return new T.Z(null,75,U.a2r("assets/logo.png"),null)}}
+A:function(a,b){return new T.Z(null,95,U.a2r("assets/logo.png"),null)}}
 D.yH.prototype={
 A:function(a,b){var s=null
 return D.jX(s,L.az(this.c,s,s,s,s,s,s,s,A.al(s,s,P.Y(C.I.ar(229.5),204,214,246),s,s,s,s,s,s,s,s,18,s,s,s,s,!0,s,s,s,s,s,s),s,s,s),C.ae,!1,s,s,s,s,s,s,s,s,s,s,new D.Ni(this,b),s,s,s,s,s)}}
