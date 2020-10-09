@@ -76,12 +76,13 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "47ca49e2215710743712a86a0381b4f1",
 "icons/ms-icon-310x310.png": "745a7fb4ec8152d633b8b2c745254993",
 "icons/ms-icon-70x70.png": "5423e4e0d1083c60b225039152bbfb8a",
-"index.html": "55b18beaac5be7e9be080c53db635607",
-"/": "55b18beaac5be7e9be080c53db635607",
+"index.html": "15df4571773a92581b8c621d0168f4c1",
+"/": "15df4571773a92581b8c621d0168f4c1",
 "main.dart.js": "53237504780739f6bb8dee909891b9a4",
 "manifest.json": "da934d14c06e103553f31df4bfb043f0",
-"styles.css": "4907003ca1b9b0c27a409488a338e509",
-"styles.scss": "c80bda07f5d8f5703f25deb8e1eb267e",
+"style.css": "89adcefb7c68e590ac7cae110ed3fcca",
+"style.css.map": "60c7b690d6049578ef66752afca079c2",
+"style.sass": "55afeb24042aaed959726486ae1e8fbd",
 "version.json": "5d095fe197f14fd7807557076ce68faf"
 };
 
