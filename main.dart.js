@@ -51587,7 +51587,7 @@ Y.VA.prototype={
 $0:function(){T.hq("https://twitter.com/SatYug26")},
 $S:1}
 Y.VB.prototype={
-$0:function(){T.hq("https://www.instagram.com/satyu.26/")},
+$0:function(){T.hq("https://www.instagram.com/s.a.t.y.u_/")},
 $S:1}
 Y.VC.prototype={
 $0:function(){T.hq("https://www.linkedin.com/in/satyam-goyal26/")},
