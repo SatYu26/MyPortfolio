@@ -36,8 +36,8 @@ const RESOURCES = {
 "assets/assets/wolverine.png": "674fb05db6da915e28a53c0af73f1916",
 "assets/FontManifest.json": "cd60659878a00edd01e9c4db747bf319",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "c42e5efcb03eca438bc644c484994bb1",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/NOTICES": "1a499110c90cfc4a71a2e0410fd0e6ef",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_icons/fonts/AntDesign.ttf": "3a2ba31570920eeb9b1d217cabe58315",
 "assets/packages/flutter_icons/fonts/Entypo.ttf": "744ce60078c17d86006dd0edabcd59a7",
 "assets/packages/flutter_icons/fonts/EvilIcons.ttf": "140c53a7643ea949007aa9a282153849",
@@ -54,9 +54,9 @@ const RESOURCES = {
 "assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf": "d2285965fe34b05465047401b8595dd0",
 "assets/packages/flutter_icons/fonts/weathericons.ttf": "4618f0de2a818e7ad3fe880e0b74d04a",
 "assets/packages/flutter_icons/fonts/Zocial.ttf": "5cdf883b18a5651a29a4d1ef276d2457",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "5a37ae808cf9f652198acde612b5328d",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "2bca5ec802e40d3f4b60343e346cedde",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "2aa350bd2aeab88b601a593f793734c0",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
 "favicon.png": "622bfd9a73cfd80f4419e4cd9be100f1",
 "icons/android-icon-144x144.png": "f3cb725a3518c4f8324272e8509caf46",
 "icons/android-icon-192x192.png": "66881777171b9e2a794a28cd703524d5",
@@ -85,9 +85,9 @@ const RESOURCES = {
 "icons/ms-icon-150x150.png": "47ca49e2215710743712a86a0381b4f1",
 "icons/ms-icon-310x310.png": "745a7fb4ec8152d633b8b2c745254993",
 "icons/ms-icon-70x70.png": "5423e4e0d1083c60b225039152bbfb8a",
-"index.html": "9ae793476affb2d76d876750350c6964",
-"/": "9ae793476affb2d76d876750350c6964",
-"main.dart.js": "5115510613e9efe634315aab67214189",
+"index.html": "2e1a814c27649a0d8e73e3e44452c00d",
+"/": "2e1a814c27649a0d8e73e3e44452c00d",
+"main.dart.js": "c396231526b8dbd5c56570c61ee5925e",
 "manifest.json": "da934d14c06e103553f31df4bfb043f0",
 "style.css": "89adcefb7c68e590ac7cae110ed3fcca",
 "style.css.map": "60c7b690d6049578ef66752afca079c2",
@@ -236,7 +236,7 @@ async function downloadOffline() {
     }
     currentContent[key] = true;
   }
-  for (var resourceKey in Object.keys(RESOURCES)) {
+  for (var resourceKey of Object.keys(RESOURCES)) {
     if (!currentContent[resourceKey]) {
       resources.push(resourceKey);
     }
